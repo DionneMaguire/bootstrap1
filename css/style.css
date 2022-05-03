@@ -2,9 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.alert-container {
-
-}
+/* containers */
+.alert-container {}
 
 .callout-container {
     height: 100vh;
@@ -30,13 +29,9 @@ body {
     background-color: rgba(0,0,0,0.5);
 }
 
-.favourites-container {
+.favourites-container {}
 
-}
-
-.features-container {
-
-}
+.features-container {}
 
 /* Block dividers */
 
@@ -44,6 +39,7 @@ body {
     width: 75px;
     height: 5px;
     border: 0;
+    background-color: #444;
 }
 
 .block-divider--orange {
